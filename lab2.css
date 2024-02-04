@@ -1,0 +1,16 @@
+.container{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 0px;
+}
+table{
+    text-align: left;
+}
+.item3, .item5, .item7, .item9{
+    background-color: rgb(14, 154, 219);
+    color: white;
+}
+.item2{
+    background-color: rgb(14, 154, 219);
+    background-color: ;
+}
